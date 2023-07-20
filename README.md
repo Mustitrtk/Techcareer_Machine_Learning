@@ -1,6 +1,10 @@
 # Global Methane Emissions
 In this project, I made a machine learning algorithm on the Global Methane Emissions dataset at the Kaggle.
 
+The code link; https://www.kaggle.com/code/mustafatortuk/global-emission
+
+my profile; https://www.kaggle.com/mustafatortuk
+
 # Why I Choose Global Methane Emissions
 Because methane emissions negatively affect global warming. In this project, we can learn how to take precautions.
 
